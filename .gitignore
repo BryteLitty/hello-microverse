@@ -1,0 +1,8 @@
+# Ignore homepage.html
+*homepage.html
+
+*test.md
+
+# ignore node_modules
+node_modules/
+
