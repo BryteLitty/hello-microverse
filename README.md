@@ -37,3 +37,7 @@ Give a ⭐️ if you like this project!
 - Thanks to Microverse for this opportunity to learn and grow as a developer
 - Thanks to my mentor @Ridwan from Nigeria
 
+### LICENSE
+
+This project is [MIT](https://github.com/BryteLitty/hello-microverse/blob/add-javascript-file/LICENSE) licensed.
+
